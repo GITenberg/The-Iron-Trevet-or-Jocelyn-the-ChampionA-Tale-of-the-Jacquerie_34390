@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34390#The-Iron-Trevet-or-Jocelyn-the-ChampionA-Tale-of-the-Jacquerie
 gutenberg_issued: '2010-11-21'
 gutenberg_type: Text
 identifiers:
