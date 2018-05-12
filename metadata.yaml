@@ -1,0 +1,39 @@
+_repo: The-Iron-Trevet-or-Jocelyn-the-ChampionA-Tale-of-the-Jacquerie_34390
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: De Leon, Daniel
+    alias: Leon, Daniel De
+    birthdate: 1852
+    deathdate: 1914
+    gutenberg_agent_id: '34732'
+    url: http://www.gutenberg.org/2009/agents/34732
+covers:
+- cover_type: archival
+  image_path: 34390-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Eugene
+    - Sue, Marie Joseph
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: ''
+gutenberg_issued: '2010-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Jacquerie, 1358 -- Fiction'
+title: 'The Iron Trevet; or, Jocelyn the Champion: A Tale of the Jacquerie'
+url: http://www.gutenberg.org/ebooks/34390
